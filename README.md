@@ -115,10 +115,10 @@ print("\n Approximate Probabilities of {}".format(query_variable))
 print(query_result)
 ```
 
-
-
 ## Output:
 ![image](https://github.com/user-attachments/assets/4f823af9-5217-43c8-bcad-afd4ff7a735d)
+
+![image](https://github.com/user-attachments/assets/163d0a26-2494-4770-a377-e71dbe50a38b)
 
 
 ## Result:
